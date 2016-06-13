@@ -2,5 +2,8 @@ Sample code for the [article](http://http://zabil.ruhoh.com/domain-driven-design
 
 This is a [maven](http://maven.apache.org/) project. To build it and run the tests do
 
+```
     $ mvn clean install
     $ mvn test
+```
+

@@ -7,3 +7,4 @@ This is a [maven](http://maven.apache.org/) project. To build it and run the tes
     $ mvn test
 ```
 
+Another cla test

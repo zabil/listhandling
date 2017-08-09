@@ -6,3 +6,5 @@ This is a [maven](http://maven.apache.org/) project. To build it and run the tes
     $ mvn clean install
     $ mvn test
 ```
+
+Cla testing
